@@ -1,5 +1,4 @@
 # Import Modules
-import math as m
 import tkinter as tk
 
 # ----------------------------- BACKEND ---------------------------------
